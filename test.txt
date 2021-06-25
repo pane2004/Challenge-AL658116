@@ -1,0 +1,7 @@
+Hello There!
+
+My name is Mr Kowalczewski.
+
+We are reading from a file.
+
+What does it look like?
